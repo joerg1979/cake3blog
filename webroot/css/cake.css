@@ -86,6 +86,13 @@ legend {
   color: #fff;
 }
 
+.header-title a {
+  color: #fff;
+}
+.header-title a:hover {
+  color: #003f54;
+}
+
 ul.pagination li a {
   color: rgba(0, 0 ,0 , 0.54);
 }
