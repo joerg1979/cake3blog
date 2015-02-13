@@ -62,7 +62,7 @@ return [
      *   You should treat it as extremely sensitive data.
      */
     'Security' => [
-        'salt' => '7883e5sdge56375c60d8c62d16tz756fgd985t7e03db28533de0c55d3',
+        'salt' => '7883e5c84b91323875c60d8c62d16f6913db442d1a16da7e00db28533e0c55d3',
     ],
 
     /**
@@ -219,9 +219,9 @@ return [
             * the following line and set the port accordingly
             */
             //'port' => 'nonstandard_port_number',
-            'username' => 'dbuser',
-            'password' => '0511',
-            'database' => 'cake3blog',
+            'username' => 'my_app',
+            'password' => 'secret',
+            'database' => 'my_app',
             'encoding' => 'utf8',
             'timezone' => 'UTC',
             'cacheMetadata' => true,
@@ -255,9 +255,9 @@ return [
             'persistent' => false,
             'host' => 'localhost',
             //'port' => 'nonstandard_port_number',
-            'username' => 'dbuser',
-            'password' => '0511',
-            'database' => 'cake3blog',
+            'username' => 'my_app',
+            'password' => 'secret',
+            'database' => 'test_myapp',
             'encoding' => 'utf8',
             'timezone' => 'UTC',
             'cacheMetadata' => true,
