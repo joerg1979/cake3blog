@@ -22,7 +22,8 @@
 <?php 
     echo $this->Form->create($article);
     echo $this->Form->input('title');
-    echo $this->Form->input('body', ['rows' => '15']);
+    echo $this->Form->input('body', ['rows' => '10']);
+    echo $this->Form->input('category_id');
     echo $this->Form->button(__('Save article'));
     echo $this->Form->end();
             

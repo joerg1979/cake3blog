@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "6eec4753003eac5d8c7cbe790a2463db",
+    "hash": "3018b364f7382a4710a5e8e37eb453ad",
     "packages": [
         {
             "name": "aura/installer-default",
@@ -131,12 +131,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/cakephp/cakephp.git",
-                "reference": "ca19dae4347db6e622b9a836a7c730dc290b19fa"
+                "reference": "6741d2abb38a1cc90200c3f524a0a8e6f120b025"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/cakephp/cakephp/zipball/ca19dae4347db6e622b9a836a7c730dc290b19fa",
-                "reference": "ca19dae4347db6e622b9a836a7c730dc290b19fa",
+                "url": "https://api.github.com/repos/cakephp/cakephp/zipball/6741d2abb38a1cc90200c3f524a0a8e6f120b025",
+                "reference": "6741d2abb38a1cc90200c3f524a0a8e6f120b025",
                 "shasum": ""
             },
             "require": {
@@ -191,7 +191,7 @@
             "keywords": [
                 "framework"
             ],
-            "time": "2015-02-13 02:29:18"
+            "time": "2015-02-16 12:56:24"
         },
         {
             "name": "cakephp/migrations",
@@ -734,12 +734,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/cakephp/bake.git",
-                "reference": "ff628e85fca14bbcf1f7420c93ee355cd474193a"
+                "reference": "82e5c4315091a89ab4494122a60896d47be50043"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/cakephp/bake/zipball/ff628e85fca14bbcf1f7420c93ee355cd474193a",
-                "reference": "ff628e85fca14bbcf1f7420c93ee355cd474193a",
+                "url": "https://api.github.com/repos/cakephp/bake/zipball/82e5c4315091a89ab4494122a60896d47be50043",
+                "reference": "82e5c4315091a89ab4494122a60896d47be50043",
                 "shasum": ""
             },
             "require": {
@@ -772,7 +772,7 @@
                 "bake",
                 "cakephp"
             ],
-            "time": "2015-02-12 02:18:54"
+            "time": "2015-02-14 21:00:18"
         },
         {
             "name": "cakephp/debug_kit",

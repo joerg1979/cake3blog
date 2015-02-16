@@ -131,3 +131,205 @@ Stack Trace:
 #18 {main}
 
 
+2015-02-16 16:21:10 Error: Fatal Error (1): Call to a member function allow() on boolean in [C:\xampp\htdocs\cake3blog\src\Controller\UsersController.php, line 33]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 191
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 90
+[main] - [internal], line ??
+
+
+
+2015-02-16 16:21:10 Error: [Cake\Error\FatalErrorException] Call to a member function allow() on boolean
+Request URL: /cake3blog/users
+Stack Trace:
+#0 C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(90): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 33)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-02-16 17:02:39 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Categories could not be found.
+Exception Attributes: array (
+  'class' => 'Categories',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cake3blog/categories
+Stack Trace:
+#0 C:\xampp\htdocs\cake3blog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-02-16 17:58:40 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Categories could not be found.
+Exception Attributes: array (
+  'class' => 'Categories',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /cake3blog/categories
+Stack Trace:
+#0 C:\xampp\htdocs\cake3blog\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 {main}
+
+
+2015-02-16 21:42:58 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in [C:\xampp\htdocs\cake3blog\src\Controller\CategoriesController.php, line 111]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 191
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 90
+[main] - [internal], line ??
+
+
+
+2015-02-16 21:42:59 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']'
+Request URL: /cake3blog/categories
+Stack Trace:
+#0 C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(90): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 111)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-02-16 21:43:26 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in [C:\xampp\htdocs\cake3blog\src\Template\Categories\index.ctp, line 37]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 191
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 90
+[main] - [internal], line ??
+
+
+
+2015-02-16 21:43:26 Error: [Cake\Error\FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']'
+Request URL: /cake3blog/categories
+Stack Trace:
+#0 C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(90): Cake\Error\BaseErrorHandler->handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 37)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-02-16 21:50:50 Error: Fatal Error (1): Call to a member function allow() on boolean in [C:\xampp\htdocs\cake3blog\src\Controller\UsersController.php, line 33]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 191
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 90
+[main] - [internal], line ??
+
+
+
+2015-02-16 21:50:51 Error: [Cake\Error\FatalErrorException] Call to a member function allow() on boolean
+Request URL: /cake3blog/users/
+Stack Trace:
+#0 C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(90): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 33)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-02-16 21:50:51 Error: Fatal Error (1): Call to a member function allow() on boolean in [C:\xampp\htdocs\cake3blog\src\Controller\UsersController.php, line 33]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 191
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 90
+[main] - [internal], line ??
+
+
+
+2015-02-16 21:50:51 Error: [Cake\Error\FatalErrorException] Call to a member function allow() on boolean
+Request URL: /cake3blog/users/
+Stack Trace:
+#0 C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(90): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 33)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-02-16 21:50:52 Error: Fatal Error (1): Call to a member function allow() on boolean in [C:\xampp\htdocs\cake3blog\src\Controller\UsersController.php, line 33]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 191
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 90
+[main] - [internal], line ??
+
+
+
+2015-02-16 21:50:53 Error: [Cake\Error\FatalErrorException] Call to a member function allow() on boolean
+Request URL: /cake3blog/users/
+Stack Trace:
+#0 C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(90): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 33)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-02-16 21:50:54 Error: Fatal Error (1): Call to a member function allow() on boolean in [C:\xampp\htdocs\cake3blog\src\Controller\UsersController.php, line 33]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 191
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 90
+[main] - [internal], line ??
+
+
+
+2015-02-16 21:50:54 Error: [Cake\Error\FatalErrorException] Call to a member function allow() on boolean
+Request URL: /cake3blog/users/
+Stack Trace:
+#0 C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(90): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 33)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-02-16 21:50:56 Error: Fatal Error (1): Call to a member function allow() on boolean in [C:\xampp\htdocs\cake3blog\src\Controller\UsersController.php, line 33]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 191
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 90
+[main] - [internal], line ??
+
+
+
+2015-02-16 21:50:56 Error: [Cake\Error\FatalErrorException] Call to a member function allow() on boolean
+Request URL: /cake3blog/users/
+Stack Trace:
+#0 C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(90): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 33)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-02-16 21:50:58 Error: Fatal Error (1): Call to a member function allow() on boolean in [C:\xampp\htdocs\cake3blog\src\Controller\UsersController.php, line 33]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 191
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 90
+[main] - [internal], line ??
+
+
+
+2015-02-16 21:50:58 Error: [Cake\Error\FatalErrorException] Call to a member function allow() on boolean
+Request URL: /cake3blog/users/
+Stack Trace:
+#0 C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(90): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 33)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-02-16 21:51:00 Error: Fatal Error (1): Call to a member function allow() on boolean in [C:\xampp\htdocs\cake3blog\src\Controller\UsersController.php, line 33]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 191
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 90
+[main] - [internal], line ??
+
+
+
+2015-02-16 21:51:00 Error: [Cake\Error\FatalErrorException] Call to a member function allow() on boolean
+Request URL: /cake3blog/users/
+Stack Trace:
+#0 C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(90): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 33)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2015-02-16 21:51:02 Error: Fatal Error (1): Call to a member function allow() on boolean in [C:\xampp\htdocs\cake3blog\src\Controller\UsersController.php, line 33]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE\src\Error\BaseErrorHandler.php, line 191
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE\src\Error\BaseErrorHandler.php, line 90
+[main] - [internal], line ??
+
+
+
+2015-02-16 21:51:02 Error: [Cake\Error\FatalErrorException] Call to a member function allow() on boolean
+Request URL: /cake3blog/users/
+Stack Trace:
+#0 C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\Error\BaseErrorHandler.php(90): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 33)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
