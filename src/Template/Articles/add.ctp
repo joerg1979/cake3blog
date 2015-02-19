@@ -21,7 +21,7 @@
 <h1>Add article</h1>
 <?php 
     echo $this->Form->create($article);
-    echo $this->Form->input('categories');
+    echo $this->Form->input('category_id');
     echo $this->Form->input('title');
     echo $this->Form->input('body', ['rows' => '10']);
     echo $this->Form->button(__('Save article'));

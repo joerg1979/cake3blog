@@ -16,8 +16,7 @@ class CategoriesController extends AppController
      *
      * @return void
      */
-    public function index()
-    {
+    public function index(){
         $categories = $this->Categories->find('threaded')
                 ->order(['lft' => 'ASC']);
         $this->set(compact('categories'));
@@ -35,8 +34,7 @@ class CategoriesController extends AppController
      * @return void
      * @throws \Cake\Network\Exception\NotFoundException When record not found.
      */
-    public function view($id = null)
-    {
+    public function view($id = null){
         $category = $this->Categories->get($id, [
             'contain' => ['ParentCategories', 'Articles', 'ChildCategories']
         ]);
@@ -49,8 +47,7 @@ class CategoriesController extends AppController
      *
      * @return void Redirects on successful add, renders view otherwise.
      */
-    public function add()
-    {
+    public function add(){
         $category = $this->Categories->newEntity();
         if ($this->request->is('post')) {
             $category = $this->Categories->patchEntity($category, $this->request->data);
@@ -73,8 +70,7 @@ class CategoriesController extends AppController
      * @return void Redirects on successful edit, renders view otherwise.
      * @throws \Cake\Network\Exception\NotFoundException When record not found.
      */
-    public function edit($id = null)
-    {
+    public function edit($id = null){
         $category = $this->Categories->get($id, [
             'contain' => []
         ]);
@@ -99,8 +95,7 @@ class CategoriesController extends AppController
      * @return void Redirects to index.
      * @throws \Cake\Network\Exception\NotFoundException When record not found.
      */
-    public function delete($id = null)
-    {
+    public function delete($id = null){
         $this->request->allowMethod(['post', 'delete']);
         $category = $this->Categories->get($id);
         if ($this->Categories->delete($category)) {

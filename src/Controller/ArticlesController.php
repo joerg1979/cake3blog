@@ -46,6 +46,11 @@ class ArticlesController extends AppController {
     public function add() {
         $article = $this->Articles->newEntity($this->request->data);
         if($this->request->is('post')){
+            $article->user_id = $this->Auth->user('id');
+            
+            $newData = ['user_id' => $this->Auth->user('id')];
+            $article = $this->Articles->patchEntity($article, $newData);
+            
             if($this->Articles->save($article)) {
                 $this->Flash->success(__('Your article has been saved.'));
                 return $this->redirect(['action' => 'index']);
@@ -98,5 +103,18 @@ class ArticlesController extends AppController {
                               h($id)));
          return $this->redirect(['action' => 'index']);
         }
+    }
+
+    public function isAuthorized($user){        
+        if($this->request->action === 'add'){
+            return TRUE;
+        }
+        if(in_array($this->request->action,['edit','delete'])){
+            $articleId = (int)$this->request->params['pass'][0];
+            if($this->Articles->isOwnedBy($articleId, $user['id'])){
+                return TRUE;
+            }
+        }
+        return parent::isAuthorized($user);
     }
 }

@@ -40,7 +40,7 @@
     <?php foreach($articles as $article): ?>
     <tr>
         <td><?= $article->id ?></td>
-        <td><?= $article->category_id     ?></td>
+        <td><?= $article->category_id ?></td>
         <td><?= 
         $this->Html->link($article->title,['action' => 'view', $article->id]) ?>
         </td>

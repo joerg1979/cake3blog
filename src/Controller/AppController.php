@@ -24,6 +24,13 @@ use Cake\Controller\Controller;
  *
  * @link http://book.cakephp.org/3.0/en/controllers.html#the-app-controller
  */
+
+namespace App\Controller;
+
+use Cake\Event\Event;
+use Cake\Controller\Controller;
+
+
 class AppController extends Controller
 {
 
@@ -37,5 +44,29 @@ class AppController extends Controller
     public function initialize()
     {
         $this->loadComponent('Flash');
+        
+        $this->loadComponent('Auth', [
+            'authorize' => ['Controller'],
+            'loginRedirect' => [
+                'controller' => 'Articles',
+                'action' => 'index'
+            ],
+            'logoutRedirect' => [
+                'controller' => 'Articles',
+                'action' => 'index',
+                'home'
+            ]
+        ]);    
+    }
+    public function beforeFilter(Event $event) {
+    
+        $this->Auth->allow(['index', 'view', 'display']);
+    }
+    
+    public function isAuthorized($user){
+        if(isset($user['role']) && $user['role'] === 'admin'){
+            return TRUE;
+        }
+        return FALSE;
     }
 }
