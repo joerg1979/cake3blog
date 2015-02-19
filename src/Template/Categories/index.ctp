@@ -2,8 +2,8 @@
     <h3><?= __('Actions') ?></h3>
     <ul class="side-nav">
         <li><?= $this->Html->link(__('New Category'), ['action' => 'add']) ?></li>
-        <li><?= $this->Html->link(__('List Articles'), ['controller' => 'Articles', 'action' => 'index']) ?> </li>
         <li><?= $this->Html->link(__('New Article'), ['controller' => 'Articles', 'action' => 'add']) ?> </li>
+        <li><?= $this->Html->link(__('List Articles'), ['controller' => 'Articles', 'action' => 'index']) ?> </li>
     </ul>
 </div>
 <div class="categories index large-10 medium-9 columns">
@@ -34,20 +34,20 @@
                 <?= $this->Html->link(__('View'), ['action' => 'view', $category->id]) ?>
                 <?= $this->Html->link(__('Edit'), ['action' => 'edit', $category->id]) ?>
                 <?= $this->Form->postLink(__('Delete'), ['action' => 'delete', $category->id], ['confirm' => __('Are you sure you want to delete # {0}?', $category->id)]) ?>
-                <?= $this->Form->postLink(__('Move down'), ['action' => 'move_down', $category->id], ['confirm' => __('Are you sure you want to move down # {0}?', $category->id)]) ?>
-                <?= $this->Form->postLink(__('Move up'), ['action' => 'move_up', $category->id], ['confirm' => __('Are you sure you want to move up # {0}?', $category->id)]) ?>
+                <?= $this->Form->postLink(__('Move down'), ['action' => 'delete', $category->id], ['confirm' => __('Are you sure you want to move down # {0}?', $category->id)]) ?>
+                <?= $this->Form->postLink(__('Move up'), ['action' => 'delete', $category->id], ['confirm' => __('Are you sure you want to move up # {0}?', $category->id)]) ?>
             </td>
         </tr>
 
     <?php endforeach; ?>
     </tbody>
     </table>
-<!--    <div class="paginator">
+    <div class="paginator">
         <ul class="pagination">
             <?= $this->Paginator->prev('< ' . __('previous')) ?>
             <?= $this->Paginator->numbers() ?>
             <?= $this->Paginator->next(__('next') . ' >') ?>
         </ul>
         <p><?= $this->Paginator->counter() ?></p>
-    </div> -->
+    </div>
 </div>

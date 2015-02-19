@@ -21,5 +21,5 @@
 <h1><?= h($article->title) ?></h1>
 <p><?= $this->Html->link('edit article', ['action'=>'edit', h($article->id)]) ?></p>
 <pre><?= h($article->body) ?></pre>  
-<p>Category: <?= h($article->category_id) ?></p>
+<p>Category: <?= h($article->category_id) ?>  </p>
 <small>Created: <?= $article->created ?></small>

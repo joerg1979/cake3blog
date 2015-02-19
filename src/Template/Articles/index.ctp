@@ -18,11 +18,21 @@
  * File: /src/Template/Articles/index.ctp
  */ 
 ?>
+<div class="actions columns large-2 medium-3">
+    <h3><?= __('Actions') ?></h3>
+    <ul class="side-nav">
+        <li><?= $this->Html->link(__('New Article'), ['controller' => 'Articles', 'action' => 'add']) ?> </li>
+        <li><?= $this->Html->link(__('New Category'), ['controller' => 'Categories', 'action' => 'add']) ?></li>
+        <li><?= $this->Html->link(__('List Categories'), ['controller' => 'Categories', 'action' => 'index']) ?> </li>
+    </ul>
+</div>
+<div class="articles index large-10 medium-9 columns">
 <h1>Blog articles</h1>
 <p><?= $this->Html->link('Add article', ['action'=>'add']) ?></p>
 <table>
     <tr>
         <th>ID</th>
+        <th>Category</th>
         <th>Title</th>
         <th>Created</th>
         <th>Action</th>
@@ -30,6 +40,7 @@
     <?php foreach($articles as $article): ?>
     <tr>
         <td><?= $article->id ?></td>
+        <td><?= $article->category_id     ?></td>
         <td><?= 
         $this->Html->link($article->title,['action' => 'view', $article->id]) ?>
         </td>
@@ -43,3 +54,4 @@
     </tr>
     <?php endforeach; ?>
 </table>
+</div>

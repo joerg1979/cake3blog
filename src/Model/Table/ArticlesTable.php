@@ -30,9 +30,9 @@ class ArticlesTable extends Table {
     public function initialize(array $config) {
         $this->addBehavior('Timestamp');
         
-        $this->belongsTo('Categories',[
+        $this->belongsTo('Categories', [
             'foreignKey' => 'category_id',
-            ]);
+        ]);
     }
     
     public function valdationDefault(Validator $validator) {

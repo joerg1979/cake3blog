@@ -3872,3 +3872,2373 @@ Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
 
 
 
+2015-02-17 12:13:57 Notice: Notice (8): Undefined offset: 0 in [C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\View\View.php, line 879]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+Cake\View\View::_getViewFileName() - CORE\src\View\View.php, line 879
+Cake\View\View::render() - CORE\src\View\View.php, line 460
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 12:13:57 Notice: Notice (8): Undefined offset: 1 in [C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\View\View.php, line 879]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+Cake\View\View::_getViewFileName() - CORE\src\View\View.php, line 879
+Cake\View\View::render() - CORE\src\View\View.php, line 460
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 12:13:57 Notice: Notice (8): Array to string conversion in [C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\View\View.php, line 885]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+Cake\View\View::_getViewFileName() - CORE\src\View\View.php, line 885
+Cake\View\View::render() - CORE\src\View\View.php, line 460
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 12:13:57 Notice: Notice (8): Array to string conversion in [C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\Template\Error\missing_template.ctp, line 25]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+sprintf - [internal], line ??
+include - CORE\src\Template\Error\missing_template.ctp, line 25
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Error\ExceptionRenderer::_outputMessage() - CORE\src\Error\ExceptionRenderer.php, line 296
+Cake\Error\ExceptionRenderer::render() - CORE\src\Error\ExceptionRenderer.php, line 172
+Cake\Error\ErrorHandler::_displayException() - CORE\src\Error\ErrorHandler.php, line 143
+Cake\Error\BaseErrorHandler::handleException() - CORE\src\Error\BaseErrorHandler.php, line 155
+[main] - [internal], line ??
+
+
+
+2015-02-17 12:13:57 Notice: Notice (8): Undefined offset: 0 in [C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\View\View.php, line 879]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+Cake\View\View::_getViewFileName() - CORE\src\View\View.php, line 879
+Cake\View\View::render() - CORE\src\View\View.php, line 460
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 12:13:57 Notice: Notice (8): Undefined offset: 1 in [C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\View\View.php, line 879]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+Cake\View\View::_getViewFileName() - CORE\src\View\View.php, line 879
+Cake\View\View::render() - CORE\src\View\View.php, line 460
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 12:13:57 Notice: Notice (8): Array to string conversion in [C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\View\View.php, line 885]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+Cake\View\View::_getViewFileName() - CORE\src\View\View.php, line 885
+Cake\View\View::render() - CORE\src\View\View.php, line 460
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 12:13:57 Notice: Notice (8): Array to string conversion in [C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\Template\Error\missing_template.ctp, line 25]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+sprintf - [internal], line ??
+include - CORE\src\Template\Error\missing_template.ctp, line 25
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Error\ExceptionRenderer::_outputMessage() - CORE\src\Error\ExceptionRenderer.php, line 296
+Cake\Error\ExceptionRenderer::render() - CORE\src\Error\ExceptionRenderer.php, line 172
+Cake\Error\ErrorHandler::_displayException() - CORE\src\Error\ErrorHandler.php, line 143
+Cake\Error\BaseErrorHandler::handleException() - CORE\src\Error\BaseErrorHandler.php, line 155
+[main] - [internal], line ??
+
+
+
+2015-02-17 12:14:35 Notice: Notice (8): Undefined offset: 0 in [C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\View\View.php, line 879]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+Cake\View\View::_getViewFileName() - CORE\src\View\View.php, line 879
+Cake\View\View::render() - CORE\src\View\View.php, line 460
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 12:14:35 Notice: Notice (8): Undefined offset: 1 in [C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\View\View.php, line 879]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+Cake\View\View::_getViewFileName() - CORE\src\View\View.php, line 879
+Cake\View\View::render() - CORE\src\View\View.php, line 460
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 12:14:35 Notice: Notice (8): Array to string conversion in [C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\View\View.php, line 885]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+Cake\View\View::_getViewFileName() - CORE\src\View\View.php, line 885
+Cake\View\View::render() - CORE\src\View\View.php, line 460
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 12:14:35 Notice: Notice (8): Array to string conversion in [C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\Template\Error\missing_template.ctp, line 25]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+sprintf - [internal], line ??
+include - CORE\src\Template\Error\missing_template.ctp, line 25
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Error\ExceptionRenderer::_outputMessage() - CORE\src\Error\ExceptionRenderer.php, line 296
+Cake\Error\ExceptionRenderer::render() - CORE\src\Error\ExceptionRenderer.php, line 172
+Cake\Error\ErrorHandler::_displayException() - CORE\src\Error\ErrorHandler.php, line 143
+Cake\Error\BaseErrorHandler::handleException() - CORE\src\Error\BaseErrorHandler.php, line 155
+[main] - [internal], line ??
+
+
+
+2015-02-17 12:14:36 Notice: Notice (8): Undefined offset: 0 in [C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\View\View.php, line 879]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+Cake\View\View::_getViewFileName() - CORE\src\View\View.php, line 879
+Cake\View\View::render() - CORE\src\View\View.php, line 460
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 12:14:36 Notice: Notice (8): Undefined offset: 1 in [C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\View\View.php, line 879]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+Cake\View\View::_getViewFileName() - CORE\src\View\View.php, line 879
+Cake\View\View::render() - CORE\src\View\View.php, line 460
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 12:14:36 Notice: Notice (8): Array to string conversion in [C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\View\View.php, line 885]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+Cake\View\View::_getViewFileName() - CORE\src\View\View.php, line 885
+Cake\View\View::render() - CORE\src\View\View.php, line 460
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 12:14:36 Notice: Notice (8): Array to string conversion in [C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\Template\Error\missing_template.ctp, line 25]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+sprintf - [internal], line ??
+include - CORE\src\Template\Error\missing_template.ctp, line 25
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Error\ExceptionRenderer::_outputMessage() - CORE\src\Error\ExceptionRenderer.php, line 296
+Cake\Error\ExceptionRenderer::render() - CORE\src\Error\ExceptionRenderer.php, line 172
+Cake\Error\ErrorHandler::_displayException() - CORE\src\Error\ErrorHandler.php, line 143
+Cake\Error\BaseErrorHandler::handleException() - CORE\src\Error\BaseErrorHandler.php, line 155
+[main] - [internal], line ??
+
+
+
+2015-02-17 12:15:27 Notice: Notice (8): Undefined offset: 0 in [C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\View\View.php, line 879]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+Cake\View\View::_getViewFileName() - CORE\src\View\View.php, line 879
+Cake\View\View::render() - CORE\src\View\View.php, line 460
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 12:15:27 Notice: Notice (8): Undefined offset: 1 in [C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\View\View.php, line 879]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+Cake\View\View::_getViewFileName() - CORE\src\View\View.php, line 879
+Cake\View\View::render() - CORE\src\View\View.php, line 460
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 12:15:27 Notice: Notice (8): Array to string conversion in [C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\View\View.php, line 885]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+Cake\View\View::_getViewFileName() - CORE\src\View\View.php, line 885
+Cake\View\View::render() - CORE\src\View\View.php, line 460
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 12:15:27 Notice: Notice (8): Array to string conversion in [C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\Template\Error\missing_template.ctp, line 25]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+sprintf - [internal], line ??
+include - CORE\src\Template\Error\missing_template.ctp, line 25
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Error\ExceptionRenderer::_outputMessage() - CORE\src\Error\ExceptionRenderer.php, line 296
+Cake\Error\ExceptionRenderer::render() - CORE\src\Error\ExceptionRenderer.php, line 172
+Cake\Error\ErrorHandler::_displayException() - CORE\src\Error\ErrorHandler.php, line 143
+Cake\Error\BaseErrorHandler::handleException() - CORE\src\Error\BaseErrorHandler.php, line 155
+[main] - [internal], line ??
+
+
+
+2015-02-17 12:15:28 Notice: Notice (8): Undefined offset: 0 in [C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\View\View.php, line 879]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+Cake\View\View::_getViewFileName() - CORE\src\View\View.php, line 879
+Cake\View\View::render() - CORE\src\View\View.php, line 460
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 12:15:28 Notice: Notice (8): Undefined offset: 1 in [C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\View\View.php, line 879]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+Cake\View\View::_getViewFileName() - CORE\src\View\View.php, line 879
+Cake\View\View::render() - CORE\src\View\View.php, line 460
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 12:15:28 Notice: Notice (8): Array to string conversion in [C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\View\View.php, line 885]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+Cake\View\View::_getViewFileName() - CORE\src\View\View.php, line 885
+Cake\View\View::render() - CORE\src\View\View.php, line 460
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 12:15:28 Notice: Notice (8): Array to string conversion in [C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\Template\Error\missing_template.ctp, line 25]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+sprintf - [internal], line ??
+include - CORE\src\Template\Error\missing_template.ctp, line 25
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Error\ExceptionRenderer::_outputMessage() - CORE\src\Error\ExceptionRenderer.php, line 296
+Cake\Error\ExceptionRenderer::render() - CORE\src\Error\ExceptionRenderer.php, line 172
+Cake\Error\ErrorHandler::_displayException() - CORE\src\Error\ErrorHandler.php, line 143
+Cake\Error\BaseErrorHandler::handleException() - CORE\src\Error\BaseErrorHandler.php, line 155
+[main] - [internal], line ??
+
+
+
+2015-02-17 12:16:03 Notice: Notice (8): Undefined offset: 0 in [C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\View\View.php, line 879]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+Cake\View\View::_getViewFileName() - CORE\src\View\View.php, line 879
+Cake\View\View::render() - CORE\src\View\View.php, line 460
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 12:16:03 Notice: Notice (8): Undefined offset: 1 in [C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\View\View.php, line 879]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+Cake\View\View::_getViewFileName() - CORE\src\View\View.php, line 879
+Cake\View\View::render() - CORE\src\View\View.php, line 460
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 12:16:03 Notice: Notice (8): Array to string conversion in [C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\View\View.php, line 885]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+Cake\View\View::_getViewFileName() - CORE\src\View\View.php, line 885
+Cake\View\View::render() - CORE\src\View\View.php, line 460
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 12:16:03 Notice: Notice (8): Array to string conversion in [C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\Template\Error\missing_template.ctp, line 25]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+sprintf - [internal], line ??
+include - CORE\src\Template\Error\missing_template.ctp, line 25
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Error\ExceptionRenderer::_outputMessage() - CORE\src\Error\ExceptionRenderer.php, line 296
+Cake\Error\ExceptionRenderer::render() - CORE\src\Error\ExceptionRenderer.php, line 172
+Cake\Error\ErrorHandler::_displayException() - CORE\src\Error\ErrorHandler.php, line 143
+Cake\Error\BaseErrorHandler::handleException() - CORE\src\Error\BaseErrorHandler.php, line 155
+[main] - [internal], line ??
+
+
+
+2015-02-17 12:16:03 Notice: Notice (8): Undefined offset: 0 in [C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\View\View.php, line 879]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+Cake\View\View::_getViewFileName() - CORE\src\View\View.php, line 879
+Cake\View\View::render() - CORE\src\View\View.php, line 460
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 12:16:03 Notice: Notice (8): Undefined offset: 1 in [C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\View\View.php, line 879]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+Cake\View\View::_getViewFileName() - CORE\src\View\View.php, line 879
+Cake\View\View::render() - CORE\src\View\View.php, line 460
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 12:16:03 Notice: Notice (8): Array to string conversion in [C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\View\View.php, line 885]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+Cake\View\View::_getViewFileName() - CORE\src\View\View.php, line 885
+Cake\View\View::render() - CORE\src\View\View.php, line 460
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 12:16:03 Notice: Notice (8): Array to string conversion in [C:\xampp\htdocs\cake3blog\vendor\cakephp\cakephp\src\Template\Error\missing_template.ctp, line 25]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+sprintf - [internal], line ??
+include - CORE\src\Template\Error\missing_template.ctp, line 25
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Error\ExceptionRenderer::_outputMessage() - CORE\src\Error\ExceptionRenderer.php, line 296
+Cake\Error\ExceptionRenderer::render() - CORE\src\Error\ExceptionRenderer.php, line 172
+Cake\Error\ErrorHandler::_displayException() - CORE\src\Error\ErrorHandler.php, line 143
+Cake\Error\BaseErrorHandler::handleException() - CORE\src\Error\BaseErrorHandler.php, line 155
+[main] - [internal], line ??
+
+
+
+2015-02-17 14:14:31 Notice: Notice (8): Undefined variable: category in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:31 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:31 Notice: Notice (8): Undefined variable: category in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:31 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:31 Notice: Notice (8): Undefined variable: category in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:31 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:31 Notice: Notice (8): Undefined variable: category in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:31 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:31 Notice: Notice (8): Undefined variable: category in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:31 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:31 Notice: Notice (8): Undefined variable: category in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:31 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:31 Notice: Notice (8): Undefined variable: category in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:31 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:31 Notice: Notice (8): Undefined variable: category in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:31 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:31 Notice: Notice (8): Undefined variable: category in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:31 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:31 Notice: Notice (8): Undefined variable: category in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:31 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:31 Notice: Notice (8): Undefined variable: category in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:31 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:31 Notice: Notice (8): Undefined variable: category in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:31 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:40 Notice: Notice (8): Undefined variable: categories in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:40 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:40 Notice: Notice (8): Undefined variable: categories in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:40 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:40 Notice: Notice (8): Undefined variable: categories in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:40 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:40 Notice: Notice (8): Undefined variable: categories in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:40 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:40 Notice: Notice (8): Undefined variable: categories in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:40 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:40 Notice: Notice (8): Undefined variable: categories in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:40 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:40 Notice: Notice (8): Undefined variable: categories in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:40 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:40 Notice: Notice (8): Undefined variable: categories in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:40 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:40 Notice: Notice (8): Undefined variable: categories in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:40 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:40 Notice: Notice (8): Undefined variable: categories in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:40 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:40 Notice: Notice (8): Undefined variable: categories in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:40 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:40 Notice: Notice (8): Undefined variable: categories in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:14:40 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:15:17 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:15:17 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:15:17 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:15:17 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:15:17 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:15:17 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:15:17 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:15:17 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:15:17 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:15:17 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:15:17 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:15:17 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:15:55 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:15:55 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:15:55 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:15:55 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:15:55 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:15:55 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:15:55 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:15:55 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:15:55 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:15:55 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:15:55 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:15:55 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:15:57 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:15:57 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:15:57 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:15:57 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:15:57 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:15:57 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:15:57 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:15:57 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:15:57 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:15:57 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:15:57 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:15:57 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:16:10 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:16:10 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:16:10 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:16:10 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:16:10 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:16:10 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:16:10 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:16:10 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:16:10 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:16:10 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:16:10 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:16:10 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:16:25 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:16:25 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:16:25 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:16:25 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:16:25 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:16:25 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:16:25 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:16:25 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:16:25 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:16:25 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:16:25 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:16:25 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:16:44 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:16:44 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:16:44 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:16:44 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:16:44 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:16:44 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:16:44 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:16:44 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:16:44 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:16:44 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:16:44 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:16:44 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:23:26 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:23:26 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:23:26 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:23:26 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:23:26 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:23:26 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:23:26 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:23:26 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:23:26 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:23:26 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:23:26 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:23:26 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\index.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\index.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:25:04 Notice: Notice (8): Undefined variable: category in [C:\xampp\htdocs\cake3blog\src\Template\Articles\view.ctp, line 25]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\view.ctp, line 25
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:25:04 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\view.ctp, line 25]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\view.ctp, line 25
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:25:35 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\view.ctp, line 25]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\view.ctp, line 25
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:26:10 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\view.ctp, line 25]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\view.ctp, line 25
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:32:15 Notice: Notice (8): Undefined variable: category in [C:\xampp\htdocs\cake3blog\src\Template\Articles\view.ctp, line 25]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\view.ctp, line 25
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:32:15 Notice: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\cake3blog\src\Template\Articles\view.ctp, line 25]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\view.ctp, line 25
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-02-17 14:32:32 Notice: Notice (8): Undefined variable: categories in [C:\xampp\htdocs\cake3blog\src\Template\Articles\view.ctp, line 25]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\view.ctp, line 25
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 815
+Cake\View\View::_render() - CORE\src\View\View.php, line 775
+Cake\View\View::render() - CORE\src\View\View.php, line 463
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 576
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+

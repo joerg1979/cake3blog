@@ -1,107 +1,134 @@
 <?php
-/**
- * CakePHP(tm) : Rapid Development Framework (http://cakephp.org)
- * Copyright (c) Cake Software Foundation, Inc. (http://cakefoundation.org)
- *
- * Licensed under The MIT License
- * For full copyright and license information, please see the LICENSE.txt
- * Redistributions of files must retain the above copyright notice.
- *
- * @copyright     Copyright (c) Cake Software Foundation, Inc. (http://cakefoundation.org)
- * @link          http://cakephp.org CakePHP(tm) Project
- * @since         0.10.0
- * @license       http://www.opensource.org/licenses/mit-license.php MIT License
- */
-
-/* 
- * The CakePHP Blog Tutorial on CakePHP3 RC2
- * From: CakePHP3Cookbook 
- * 
- * File: /src/Controller/CategoriesController.php
- */
 namespace App\Controller;
 
-use Cake\Network\Exception\NotFoundException;
+use App\Controller\AppController;
 
-class CategoriesController extends AppController{
-    
-    public function index(){
+/**
+ * Categories Controller
+ *
+ * @property \App\Model\Table\CategoriesTable $Categories
+ */
+class CategoriesController extends AppController
+{
+
+    /**
+     * Index method
+     *
+     * @return void
+     */
+    public function index()
+    {
         $categories = $this->Categories->find('threaded')
-                ->order(['lft' => 'asc']);
+                ->order(['lft' => 'ASC']);
         $this->set(compact('categories'));
+        $this->paginate = [
+            'contain' => ['ParentCategories']
+        ];
+        $this->set('categories', $this->paginate($this->Categories));
+        $this->set('_serialize', ['categories']);
     }
-    
-    public function view($id = NULL){
-        if (!$id) {
-            throw new NotFoundException(__('Invalid category'));
-        }
-        $category = $this->Categories->get($id);
-        $this->set(compact('category'));
+
+    /**
+     * View method
+     *
+     * @param string|null $id Category id.
+     * @return void
+     * @throws \Cake\Network\Exception\NotFoundException When record not found.
+     */
+    public function view($id = null)
+    {
+        $category = $this->Categories->get($id, [
+            'contain' => ['ParentCategories', 'Articles', 'ChildCategories']
+        ]);
+        $this->set('category', $category);
+        $this->set('_serialize', ['category']);
     }
-    public function add(){
-        $category = $this->Categories->newEntity($this->request->data);
-        if($this->request->is('post')){
-            if($this->Categories->save($category)){
-                $this->Flash->success(__('The category has been saved'));
+
+    /**
+     * Add method
+     *
+     * @return void Redirects on successful add, renders view otherwise.
+     */
+    public function add()
+    {
+        $category = $this->Categories->newEntity();
+        if ($this->request->is('post')) {
+            $category = $this->Categories->patchEntity($category, $this->request->data);
+            if ($this->Categories->save($category)) {
+                $this->Flash->success('The category has been saved.');
                 return $this->redirect(['action' => 'index']);
+            } else {
+                $this->Flash->error('The category could not be saved. Please, try again.');
             }
-            $this->Flash->error(__('Unable to add category!'));
         }
-        $this->set('category', $category);
-    }   
-    
-    public function edit($id = NULL){
-        if(!$id){
-            throw new NotFoundException(__('Invalid Category')); 
-        }
-        $category = $this->Categories->get($id);
-        if($this->request->is('post', 'put')){
-            $this->Categories->patchEntity($category, $this->request->data);
-            if($this->Categories->save($category)){
-                $this->Flash->success(__('Your category has been updated'));
-                return $this->redirect(['action','index']);
-            }
-            $this->Flash->error(__('Unable to update your category'));
-        }
-        $this->set('category', $category);
+        $parentCategories = $this->Categories->ParentCategories->find('list', ['limit' => 200]);
+        $this->set(compact('category', 'parentCategories'));
+        $this->set('_serialize', ['category']);
     }
-    
-    public function delete($id){
-        $this->request->allowMethod(['post','delete']);
-        
-        if(!$id){
-            throw new NotFoundException(__('Ivalid category'));
+
+    /**
+     * Edit method
+     *
+     * @param string|null $id Category id.
+     * @return void Redirects on successful edit, renders view otherwise.
+     * @throws \Cake\Network\Exception\NotFoundException When record not found.
+     */
+    public function edit($id = null)
+    {
+        $category = $this->Categories->get($id, [
+            'contain' => []
+        ]);
+        if ($this->request->is(['patch', 'post', 'put'])) {
+            $category = $this->Categories->patchEntity($category, $this->request->data);
+            if ($this->Categories->save($category)) {
+                $this->Flash->success('The category has been saved.');
+                return $this->redirect(['action' => 'index']);
+            } else {
+                $this->Flash->error('The category could not be saved. Please, try again.');
+            }
         }
-        
+        $parentCategories = $this->Categories->ParentCategories->find('list', ['limit' => 200]);
+        $this->set(compact('category', 'parentCategories'));
+        $this->set('_serialize', ['category']);
+    }
+
+    /**
+     * Delete method
+     *
+     * @param string|null $id Category id.
+     * @return void Redirects to index.
+     * @throws \Cake\Network\Exception\NotFoundException When record not found.
+     */
+    public function delete($id = null)
+    {
+        $this->request->allowMethod(['post', 'delete']);
         $category = $this->Categories->get($id);
-        if($this->Categories->delete($category)){
-            $this->Flash->success(__(
-                    'The category with ID:{0} has been deleted',
-                    h($id)));
-        
-            return $this->redirect(['action' =>'index']);  
+        if ($this->Categories->delete($category)) {
+            $this->Flash->success('The category has been deleted.');
+        } else {
+            $this->Flash->error('The category could not be deleted. Please, try again.');
         }
+        return $this->redirect(['action' => 'index']);
     }
     
     public function move_up($id = NULL){
-        $this->request->allowMethod(['post','put']);
+        $this->request->allowMethod(['post', 'put']);
         $category = $this->Categories->get($id);
-        
         if($this->Categories->moveUp($category)){
-            $this->Flash->success(__('Category has been moved Up'));
+            $this->Flash->success(__('Category moved Up!'));
         } else {
-            $this->Flash->error(__('The category could not be moved up!'));
+            $this->Flash->error(__('Category could not be moved up. Please, try again.'));
         }
-        return $this->redirect($this->referer(['action'=>'index']));
+        return $this->redirect($this->referer(['action' => 'index']));
     }
     
     public function move_down($id = NULL){
         $this->request->allowMethod(['post','put']);
         $category = $this->Categories->get($id);
         if($this->Categories->moveDown($category)){
-            $this->Flash->success(__('Category has been moved down.'));
+            $this->Flash->success(__('Category moved Down.'));
         } else {
-            $this->Flash->error(__('Category could not been moved down!'));
+            $this->Flash->error(__('Category could not be moved down. Please, try again.'));
         }
         return $this->redirect($this->referer(['action'=>'index']));
     }    
